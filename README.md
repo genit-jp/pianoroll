@@ -49,7 +49,6 @@ Tick は 1beat を 480 分割した単位です。
 ### 開発
 
 ```
-cd midi2image
 npm install
 ```
 
